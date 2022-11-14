@@ -8,6 +8,7 @@
 * S - Move the ball backwards
 * D - Move the ball right
 * 0 - Stop the ball
+* Space - Make the ball jump
 
 ### Camera Movement
 * Q - Rotate camera left
