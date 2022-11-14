@@ -16,7 +16,7 @@
 * Mouse left click + Mouse movement - Moves camera around the ball
 
 ### How to Start Game
-*Press the green start button on level 1 in the maps folder
+* Press the green start button on level 1 in the maps folder
 * file location - Documents\GitHub\HolcombT_MayP\Content\ThirdPerson\Maps
 * The level structure will progress you thoughout the game
 
