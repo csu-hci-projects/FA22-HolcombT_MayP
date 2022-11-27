@@ -3,20 +3,10 @@
 
 # Controls
 ### Movement
-* W - Move the ball forward
-* A - Move the ball left
-* S - Move the ball backwards
-* D - Move the ball right
-* 0 - Stop the ball
-* Space - Make the ball jump
-
-### Camera Movement
-* Q - Rotate camera left
-* E - Rotate camera right
-* Mouse left click + Mouse movement - Moves camera around the ball
+* Move left oculus thumbstick to teleport character
+* Use oculus grab button to pick up bowling balls
 
 ### How to Start Game
-* Press the green start button on level 1 in the maps folder
-* file location - Documents\GitHub\HolcombT_MayP\Content\ThirdPerson\Maps
-* The level structure will progress you thoughout the game
+* Press the green start button on Bowling1 level
+* file location - Documents\GitHub\HolcombT_MayP\Content\VrBowling\Maps\Bowling1
 
