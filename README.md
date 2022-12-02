@@ -3,8 +3,10 @@
 
 # Controls
 ### Movement
-* Move left oculus thumbstick to teleport character
-* Use oculus grab button to pick up bowling balls
+* Move right oculus thumbstick to teleport character
+* Push in either joystick to access menu, trigger to select options
+* Use oculus touch side grab button to pick up bowling balls
+* Swing arm like normal and let go of trigger to throw ball
 
 ### How to Start Game
 * Press the green start button on Bowling1 level
